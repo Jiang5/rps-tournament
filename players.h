@@ -2,4 +2,4 @@
 #include "player_paper.c"
 #include "player_scissors.c"
 #include "player_random.c"
-#include "player_jwu105.c"
+#include "player_test.c"
